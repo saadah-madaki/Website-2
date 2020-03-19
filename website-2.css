@@ -1,0 +1,107 @@
+.mother{
+    height: 2000px;
+    background-color: white;
+}
+
+.header{
+    height: 100px;
+    background-color: #ffffff;
+}
+
+.logo{
+    height: 100px;
+    width: 100px;
+    background-color: goldenrod;
+}
+
+.view{
+    height: 600px ;
+    background-color: white;
+    background-image: url(images/8.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about-store{
+    font-size: medium;
+    font-family: cursive;
+    font-style: normal;
+    color: goldenrod;
+    float: left;
+    height: 300px;
+    width: 900px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+.side-image{
+    height: 300px;
+    width: 250px;
+    background-color: white;
+    float: right;
+    margin-right: 50px;
+    margin-top: 50px;
+}
+
+button{
+    border-radius: 70px;
+    background-color: white;
+    width: 150px;
+    height: 30px;
+    margin-left: 50%;
+    margin-top: 50px;
+}
+
+.side-image2{
+    height: 300px;
+    width: 250px;
+    background-color: white;
+    float: left;
+    margin-top: 20px;
+    margin-left: 50px;
+    border-right: 8px solid rgb(87, 32, 32);
+}
+
+.text{
+    color: white;
+    margin-top: 50px;
+    font-size: x-large;
+    margin-left: 350px;
+    margin-right: 40px;
+}
+
+.box1{
+    height: 250px;
+    width: 500px;
+    background-color: white;
+    margin-left: 50px;
+    margin-top: 200px;
+    background-image: url(images/7.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box2{
+    height: 250px;
+    width: 500px;
+    background-color: white;
+    margin-left: 400px;
+    margin-top: -200px;
+    background-image: url(images/8.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box3{
+    height: 250px;
+    width: 500px;
+    background-color:white;
+    margin-left: 770px;
+    margin-top: -200px;
+    background-image: url(images/9.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
